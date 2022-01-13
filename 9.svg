@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" xmlns:ev="http://www.w3.org/2001/xml-events" id="subwaymap_svg" width="799" height="871" version="1.1" style="overflow: hidden; width: 231px; height: 407px; touch-action: none; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">  
+      <line id="SvgjsLine3211" x1="78" y1="396" x2="78" y2="370" stroke-linejoin="bevel" stroke-linecap="round" stroke="#8fc31f" stroke-width="5" class="mask"/>  
+      <line id="SvgjsLine3212" x1="78" y1="370" x2="78" y2="347" stroke-linejoin="bevel" stroke-linecap="round" stroke="#8fc31f" stroke-width="5" class="mask"/>  
+      <line id="SvgjsLine3213" x1="78" y1="347" x2="78" y2="317" stroke-linejoin="bevel" stroke-linecap="round" stroke="#8fc31f" stroke-width="5" class="mask"/>  
+      <line id="SvgjsLine3214" x1="78" y1="317" x2="78" y2="297" stroke-linejoin="bevel" stroke-linecap="round" stroke="#8fc31f" stroke-width="5" class="mask"/>  
+      <line id="SvgjsLine3215" x1="78" y1="297" x2="78" y2="275" stroke-linejoin="bevel" stroke-linecap="round" stroke="#8fc31f" stroke-width="5" class="mask"/>  
+      <line id="SvgjsLine3216" x1="78" y1="275" x2="119" y2="229" stroke-linejoin="bevel" stroke-linecap="round" stroke="#8fc31f" stroke-width="5" class="mask"/>  
+      <line id="SvgjsLine3217" x1="119" y1="229" x2="142" y2="195" stroke-linejoin="bevel" stroke-linecap="round" stroke="#8fc31f" stroke-width="5" class="mask"/>  
+      <line id="SvgjsLine3218" x1="142" y1="195" x2="158" y2="174" stroke-linejoin="bevel" stroke-linecap="round" stroke="#8fc31f" stroke-width="5" class="mask"/>  
+      <line id="SvgjsLine3219" x1="158" y1="174" x2="158" y2="140" stroke-linejoin="bevel" stroke-linecap="round" stroke="#8fc31f" stroke-width="5" class="mask"/>  
+      <line id="SvgjsLine3220" x1="158" y1="140" x2="158" y2="100" stroke-linejoin="bevel" stroke-linecap="round" stroke="#8fc31f" stroke-width="5" class="mask"/>  
+      <line id="SvgjsLine3221" x1="158" y1="100" x2="158" y2="60" stroke-linejoin="bevel" stroke-linecap="round" stroke="#8fc31f" stroke-width="5" class="mask"/>  
+      <line id="SvgjsLine3222" x1="158" y1="60" x2="158" y2="10" stroke-linejoin="bevel" stroke-linecap="round" stroke="#8fc31f" stroke-width="5" class="mask"/>  
+      <text id="SvgjsText3223" font-family="微软雅黑" x="88" y="382.80000076293936" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3224" dy="15.600000000000001" x="88">郭公庄</tspan>    
+      </text>  
+      <image id="SvgjsImage3225" xlink:href="turn.png" width="14" height="14" x="71" y="389" sdata="郭公庄" class="staturn-150997293 staturn-circle mask"/>  
+      <text id="SvgjsText3226" font-family="微软雅黑" x="7.800000000000011" y="358.8000007629395" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3227" dy="15.600000000000001" x="7.800000000000011">丰台科技园</tspan>    
+      </text>  
+      <circle id="SvgjsCircle3228" r="4" cx="78" cy="370" fill="white" stroke="black" stroke-width="1" sdata="丰台科技园" class="sta-150997291 sta-circle mask"/>  
+      <text id="SvgjsText3229" font-family="微软雅黑" x="31.80000000000001" y="334.20000076293945" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3230" dy="15.600000000000001" x="31.80000000000001">科怡路</tspan>    
+      </text>  
+      <circle id="SvgjsCircle3231" r="4" cx="78" cy="347" fill="white" stroke="black" stroke-width="1" sdata="科怡路" class="sta-150997289 sta-circle mask"/>  
+      <text id="SvgjsText3232" font-family="微软雅黑" x="21.80000000000001" y="304.20000076293945" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3233" dy="15.600000000000001" x="21.80000000000001">丰台南路</tspan>    
+      </text>  
+      <circle id="SvgjsCircle3234" r="4" cx="78" cy="317" fill="white" stroke="black" stroke-width="1" sdata="丰台南路" class="sta-150997287 sta-circle mask"/>  
+      <text id="SvgjsText3235" font-family="微软雅黑" x="7.800000000000011" y="284.20000076293945" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3236" dy="15.600000000000001" x="7.800000000000011">丰台东大街</tspan>    
+      </text>  
+      <circle id="SvgjsCircle3237" r="4" cx="78" cy="297" fill="white" stroke="black" stroke-width="1" sdata="丰台东大街" class="sta-150997285 sta-circle mask"/>  
+      <text id="SvgjsText3238" font-family="微软雅黑" x="40" y="242.20000076293945" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3239" dy="15.600000000000001" x="40">七里庄</tspan>    
+      </text>  
+      <image id="SvgjsImage3240" xlink:href="turn.png" width="14" height="14" x="71" y="268" sdata="七里庄" class="staturn-150997283 staturn-circle mask"/>  
+      <text id="SvgjsText3241" font-family="微软雅黑" x="72" y="206.20000076293945" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3242" dy="15.600000000000001" x="72">六里桥</tspan>    
+      </text>  
+      <image id="SvgjsImage3243" xlink:href="turn.png" width="14" height="14" x="112" y="222" sdata="六里桥" class="staturn-150997281 staturn-circle mask"/>  
+      <text id="SvgjsText3244" font-family="微软雅黑" x="136" y="196.20000076293945" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3245" dy="15.600000000000001" x="136">六里桥东</tspan>    
+      </text>  
+      <circle id="SvgjsCircle3246" r="4" cx="142" cy="195" fill="white" stroke="black" stroke-width="1" sdata="六里桥东" class="sta-150997279 sta-circle mask"/>  
+      <text id="SvgjsText3247" font-family="微软雅黑" x="166" y="161.20000076293945" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3248" dy="15.600000000000001" x="166">北京西站</tspan>    
+      </text>  
+      <image id="SvgjsImage3249" xlink:href="turn.png" width="14" height="14" x="151" y="167" sdata="北京西站" class="staturn-150997277 staturn-circle mask"/>  
+      <text id="SvgjsText3250" font-family="微软雅黑" x="166" y="113.4000007629395" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3251" dy="15.600000000000001" x="166">军事博物馆</tspan>    
+      </text>  
+      <image id="SvgjsImage3252" xlink:href="turn.png" width="14" height="14" x="151" y="133" sdata="军事博物馆" class="staturn-150997275 staturn-circle mask"/>  
+      <text id="SvgjsText3253" font-family="微软雅黑" x="166" y="87.20000076293945" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3254" dy="15.600000000000001" x="166">白堆子</tspan>    
+      </text>  
+      <circle id="SvgjsCircle3255" r="4" cx="158" cy="100" fill="white" stroke="black" stroke-width="1" sdata="白堆子" class="sta-150997273 sta-circle mask"/>  
+      <text id="SvgjsText3256" font-family="微软雅黑" x="166" y="33.00000076293941" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3257" dy="15.600000000000001" x="166">白石桥南</tspan>    
+      </text>  
+      <image id="SvgjsImage3258" xlink:href="turn.png" width="14" height="14" x="151" y="53" sdata="白石桥南" class="staturn-150997271 staturn-circle mask"/>  
+      <text id="SvgjsText3259" font-family="微软雅黑" x="86.10000000000002" y="4.200000762939453" fill="#000000" font-size="12" family="微软雅黑" size="12" class="mask">    
+            <tspan id="SvgjsTspan3260" dy="15.600000000000001" x="86.10000000000002">国家图书馆</tspan>    
+      </text>  
+      <image id="SvgjsImage3261" xlink:href="turn.png" width="14" height="14" x="151" y="3" sdata="国家图书馆" class="staturn-150997269 staturn-circle mask"/>  
+</svg>
